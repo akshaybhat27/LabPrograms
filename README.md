@@ -23,4 +23,4 @@ b) Find the Transpose of a matrix, Multiplication of two matrices and Addition o
 
 10. Program 9 – PHP : program with variable states with value “Mississippi Alabama Texas Massachusetts Kansas"
 
-11. Program 10 – PHP : program to sort the student records using selection sort. 27
+11. Program 10 – PHP : program to sort the student records using selection sort.
